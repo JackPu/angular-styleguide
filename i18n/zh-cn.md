@@ -44,7 +44,7 @@ Angular 的编码风格以及架构已经使用ES2015进行重写,这些在Angul
   1. [文档](#documentation)
   1. [贡献](#contributing)
 
-# Modular architecture
+# 模块架构
 
 Angular 中的每一个模块都是一个模块组件。一个模块组件囊括了逻辑，模版，路由和子组件。
 
